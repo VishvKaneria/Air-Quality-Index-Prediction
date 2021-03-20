@@ -1,4 +1,4 @@
-# Air-Quaity-Index-Prediction
+# Air-Quality-Index-Prediction
 Idea: -
 
 In this project, we have made a web application that predicts the air quality index of the city by the use of prediction algorithm (Random Forest) and will also provide the user recommendation accordingly about the index i.e. whether it is safe or not.
