@@ -9,15 +9,15 @@ In this project we have used web scraping to scpare the data from a climate webs
 
 Tools and Technology Used: -
 
-1.Web Scraping
-2.Machine Learning
-3.Flask
-4.Python
-5.Jinja2
+1. Web Scraping
+2. Machine Learning
+3. Flask
+4. Python
+5. Jinja2
 
 Future Scope: -
-1.We will try to include more cities.
-2.We will try to make it more interactive.
-3.We will deploy our project on cloud.</li>
-4.We will improve our dataset by including various attributes and from that will also provide the proportion of various gases in atmosphere.
-5.We will try to raise awareness to save the environment by promoting environment friendly practices.
+1. We will try to include more cities.
+2. We will try to make it more interactive.
+3. We will deploy our project on cloud.</li>
+4. We will improve our dataset by including various attributes and from that will also provide the proportion of various gases in atmosphere.
+5. We will try to raise awareness to save the environment by promoting environment friendly practices.
